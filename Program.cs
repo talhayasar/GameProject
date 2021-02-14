@@ -1,6 +1,11 @@
 ﻿using GameProject.CheckGamer;
 using System;
+/* 
+2.     Oyun satışı yapılabilecek satış ortamını simule ediniz.( Yapılan satışlar oyuncu ile ilişkilendirilmelidir. Oyuncunun parametre olarak metotta olmasını kastediyorum.)
 
+3.     Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.
+
+4.     Satışlarda kampanya entegrasyonunu simule ediniz.*/
 namespace GameProject
 {
     class Program
